@@ -1,5 +1,3 @@
-## David Mihalcenco 321CBa ##
-
 ## Task 1
     - In primul rand imi trebuia doua functii care transforma din String in Float si invers pentru a putea calcula mai departe
         suma tuturor pasilor a undei persoane si de a scrie inapoi ca string acest rezultat. Am functia concateStr care primeste
